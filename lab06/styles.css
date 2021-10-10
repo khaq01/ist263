@@ -1,0 +1,18 @@
+body{ font-family:Arial, Helvetica, sans-serif;
+    color:rgb(0, 0, 0);
+    font-size: 100%;
+   
+}
+    h1{
+        color:cornflowerblue;
+        letter-spacing:1.1em
+
+    }
+  table p, ul, td, th {
+      color:cornflowerblue}
+      .special {color:blueviolet
+    
+    }
+    table p, ul, td, th (even) {
+        background-color: #f2f2f2;
+      }
