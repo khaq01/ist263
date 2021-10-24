@@ -1,0 +1,38 @@
+body{
+    color: #000000;
+    background-color: #ffffff;
+    
+    
+}
+a:link {color: #ffffff;}
+        a:visited {color: #ffffff}
+        a:hover {
+            background-color: #0059fd;
+            text-decoration-style: wavy;
+        }
+nav {
+  background-color: #001cb8;
+  nav a {color: #ffffff}
+  nav a:hover {background-color: #001cb8;}
+  nav {padding:10px} 
+  nav {margin-bottom: 30px}
+}
+.flex-container {
+    display: flex;
+    background-color: #001cb8;
+    color: #ffffff
+  }
+  
+.flex-container > div {
+    background-color: #001cb;
+    margin: 10px;
+    padding: 20px;
+    font-size: 14px;
+  }
+.flex-container2 > div {
+    background-color: #001cb;
+    margin: 10px;
+    padding: 20px;
+    font-size: 14px;
+  }
+
