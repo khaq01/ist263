@@ -1,0 +1,40 @@
+body{
+    color: #000000;
+    background-color: #ffffff;
+    
+    
+}
+a:link {color: #ffffff;}
+        a:visited {color: #ffffff}
+        a:hover {
+            background-color: #0059fd;
+            text-decoration-style: wavy;
+        }
+nav {
+  background-color: #001cb8;
+  nav {padding:10px} 
+  nav {margin-bottom: 30px}
+}
+
+.leftflex {
+  padding: 5px;
+  display: flex;
+  justify-content: space-around;
+  font-size: x-small;
+  ima
+}
+.special {
+    text-align: center;
+}
+
+.sidebar {
+  background-color: #001cb8;
+  color:#ffffff ;
+}
+.paragraph {
+  text-align: center;
+}
+#skip {
+  position: absolute;
+  left: 999px;
+  background-color:red;
